@@ -85,6 +85,7 @@ class App extends React.Component {
             <button type='submit'>Sort</button>
           </form>
         </div>
+        {apps}
       </div>
     )
   }
